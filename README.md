@@ -1,4 +1,4 @@
-#Set up the project
+# Project Setp:
 step 1>  clone the project
 step 2>  pip install -r requirements.txt
 step 3>  python manage.py makemigrations
