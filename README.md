@@ -1,3 +1,11 @@
+#Set up the project
+step 1>  clone the project
+step 2>  pip install -r requirements.txt
+step 3>  python manage.py makemigrations
+step 4>  python manage.py migrate
+step 5>  python manage.py createsuperuser
+step 6>  python manage.py runserver
+
 # CRUD_API
 # For GET & POST operation url:
 http://127.0.0.1:8000/api/posts/
