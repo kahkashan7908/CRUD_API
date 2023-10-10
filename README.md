@@ -1,10 +1,16 @@
 # Project Setp:
-step 1>  clone the project
-step 2>  pip install -r requirements.txt
-step 3>  python manage.py makemigrations
-step 4>  python manage.py migrate
-step 5>  python manage.py createsuperuser
-step 6>  python manage.py runserver
+# Step 1> :
+clone the project
+# Step 2> : 
+pip install -r requirements.txt
+# Step 3> :  
+python manage.py makemigrations
+# Step 4> : 
+python manage.py migrate
+# Step 5> : 
+python manage.py createsuperuser
+# Step 6> :
+python manage.py runserver
 
 # CRUD_API
 # For GET & POST operation url:
